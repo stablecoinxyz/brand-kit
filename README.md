@@ -1,1 +1,1 @@
-# brand-kit
+# SBC brand-kit
