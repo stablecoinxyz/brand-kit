@@ -8,4 +8,4 @@ SBC is a fiat-backed stablecoin unlocking seamless stablecoin payments for devel
 
 ## Logo
 
-![SBC logo](logo/sbc-logo.svg | width=150)
+![SBC logo](logo/sbc-logo.svg)
